@@ -1,0 +1,64 @@
+Ans:
+Quiz:
+1.b
+
+2.b
+
+3.c
+
+4.c
+
+5.a
+
+6.d
+
+7.a
+
+8.b
+
+9.a
+
+10.Graphic Interchange Format
+
+11.d
+
+12.Windows Cabinet file
+
+13.d
+
+14.a
+
+15.Personal Computer Extended Technology
+
+16.d
+
+17.'O'
+
+18.c
+
+19.A=knight,B=spy,C=Knave
+
+20.d
+
+21.Page rank algorithm
+
+22.c
+
+23.10
+
+24.OK 1.,OK 2.
+
+25.b
+
+26.d
+
+27.c
+
+28.c
+
+29.c
+
+30.BackRub
+
+
+
